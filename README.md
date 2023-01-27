@@ -84,3 +84,7 @@ https://sites.google.com/mercadolibre.com/mobile/arquitectura/ios/deprecado-rxsw
 
 
 https://www.kodeco.com/books/combine-asynchronous-programming-with-swift/v3.0/chapters/2-publishers-subscribers
+
+
+https://medium.com/@iostpointblog/what-is-kvo-and-kvc-in-ios-a2d9365b4796
+
