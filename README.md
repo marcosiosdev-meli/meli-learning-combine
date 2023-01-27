@@ -1,6 +1,6 @@
 # Meli Learning Combine
 
-Vamos apriender combine con su index.
+Vamos apriender combine con los indexes.
 
 1. Que es Programação Reativa (como haciemos hoy con su event y delegates vs con Combine ) ?
 2. Diferencia de Subjects, Publisher y Operations.

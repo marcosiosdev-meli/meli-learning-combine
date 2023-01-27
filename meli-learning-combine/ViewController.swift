@@ -63,6 +63,6 @@ extension ViewController: TextInputViewDelegate {
 
     func didChangeSwith(_ isOn: Bool) {
         updateTitleLabel(isEnable: isOn)
-        resultValuesView.didChangeSwith(isOn)
+        resultValuesView.didChangeSwith(isOn) //use 2 implementation.
     }
 }
